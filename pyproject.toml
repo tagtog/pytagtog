@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "tagtog"
+version = "0.1.0"
+description = ""
+authors = ["Juan Miguel Cejuela <juanmi@tagtog.net>"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+
+[tool.poetry.dev-dependencies]
+pytest = "^4.6"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
