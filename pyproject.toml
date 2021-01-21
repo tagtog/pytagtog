@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "tagtog"
-version = "0.1.0"
+version = "0.1.1"
 description = "Python library & CLI to interact with tagtog APIs & datasets"
 homepage = "https://github.com/tagtog/pytagtog"
 
